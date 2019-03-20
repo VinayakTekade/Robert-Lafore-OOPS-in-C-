@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527670401 source:c:\users\vinay\coding\codeblocks-17.12mingw-nosetup\files\c03e08\main.cpp
+	<iostream>
+	<conio.h>
+
