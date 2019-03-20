@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1527597937 source:c:\users\vinay\coding\codeblocks-17.12mingw-nosetup\files\adventure land\main.cpp
-	<iostream>
-	<stdlib.h>
-	<conio.h>
-	<random>
-
