@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526969028 source:c:\users\vinay\coding\codeblocks-17.12mingw-nosetup\files\width\main.cpp
+	<iostream>
+	<iomanip>
+

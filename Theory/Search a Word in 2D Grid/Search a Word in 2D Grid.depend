@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527437635 source:c:\users\vinay\coding\codeblocks-17.12mingw-nosetup\files\search a word in 2d grid\main.cpp
+	<iostream>
+	<stdio.h>
+
